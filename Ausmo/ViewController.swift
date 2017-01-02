@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     func changeMan() {
         
         let y = 69
+        let x = 35
         
         print("yes man")
     }

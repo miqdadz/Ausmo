@@ -17,6 +17,9 @@ class ViewController: UIViewController {
 
     func changeMan() {
         
+        let x = 35
+        
+        print("helloow")
     }
 
 
